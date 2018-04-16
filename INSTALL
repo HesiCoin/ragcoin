@@ -1,0 +1,9 @@
+Building Ragcoin
+
+See doc/readme-qt.rst for instructions on building Ragcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ragcoin.
+
+See doc/build-*.txt for instructions on building ragcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ragcoin.
